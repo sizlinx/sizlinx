@@ -6,13 +6,13 @@ Welcome to sizlinx's workspace
 
 ## I am..
 
-Who likes Linux\
+Who likes Linux
 
-Who hates Windows\
+Who hates Windows
 
-Who addicted to computer\
+Who addicted to computer
 
-Who wants to learn many thing\
+Who wants to learn many thing
 
 
 
