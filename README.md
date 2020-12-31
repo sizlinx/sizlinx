@@ -27,4 +27,4 @@ Who wants to learn many thing
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=sizlinx)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sizlinx&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/pmh-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sizlinx&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/sizlinx)
